@@ -14,5 +14,6 @@
     <?php 
         $phrase = "Giraff academy";
         echo substr($phrase, 7);
+        echo "<h2>Giraff Acs</h2>"
         
     ?> 
